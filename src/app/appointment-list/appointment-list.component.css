@@ -1,0 +1,3 @@
+::ng-deep input[type="date"]::-webkit-calendar-picker-indicator {
+  @apply filter invert opacity-80 hover:opacity-100 cursor-pointer;
+}
